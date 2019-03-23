@@ -1,22 +1,4 @@
 {
-  "notes_public": [
-    {
-      "user_id": "379705914824851469",
-      "notes": "__**Mes notes public !**__\n- Inviter Delta : https://discordapp.com/oauth2/authorize?client_id=551431456002670632&scope=bot&permissions=8\n- Inviter Bloc-Notes : https://discordapp.com/oauth2/authorize?client_id=558773892177592349&scope=bot&permissions=8\n- Chaine Jiffeo : https://jiffeo.tv/Emmanuel\n- Serveur discord de Jiffeo : https://discord.gg/C6RcjpX\n- Lien de Zelly KingDom [CA] : https://tools.zelly.ca/\n- Serveur discord de Zelly KingDom [CA] : https://discord.gg/wRdjYhM"
-    },
-    {
-      "user_id": "513446184967208965",
-      "notes": "Emmanuel président !"
-    }
-  ],
-  "notes_private": [
-    {
-      "user_id": "379705914824851469",
-      "notes": "TEST ACTUALISATION DES DONNES EN JSON"
-    },
-    {
-      "user_id": "436447453927964673",
-      "notes": "test"
-    }
-  ]
+  "notes_public": [],
+  "notes_private": []
 }
